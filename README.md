@@ -4,9 +4,9 @@ Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el
 -
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.
 1.-Introducción al desarrollo web
+-------------------------------------------------------------------------------------------
 -
--
-Historia y evolución del desarrollo web:
+# Historia y evolución del desarrollo web:
 -
 La historia y evolución del desarrollo web ha estado marcada por avances tecnológicos y cambios en las necesidades de los usuarios. Todo comenzó en la década de 1990 con la creación de la World Wide Web por Tim Berners-Lee, donde los primeros sitios eran estáticos y escritos en HTML básico. Con el tiempo, surgieron nuevas tecnologías como CSS para el diseño y JavaScript para la interactividad, permitiendo páginas más dinámicas. La aparición de frameworks, gestores de contenido y la popularización de los dispositivos móviles impulsaron la evolución hacia aplicaciones web complejas, responsivas y seguras. Actualmente, el desarrollo web continúa transformándose con tendencias como el desarrollo full-stack, el uso de inteligencia artificial y la integración de tecnologías emergentes como WebAssembly y Progressive Web Apps.
 *
