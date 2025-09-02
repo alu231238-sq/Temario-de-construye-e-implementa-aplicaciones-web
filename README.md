@@ -3,7 +3,7 @@ Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el
 
 
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.
-1.-Introducción al desarrollo web
+Introducción al desarrollo web
 -------------------------------------------------------------------------------------------
 # Historia y evolución del desarrollo web:
 La historia y evolución del desarrollo web ha estado marcada por avances tecnológicos y cambios en las necesidades de los usuarios. Todo comenzó en la década de 1990 con la creación de la World Wide Web por Tim Berners-Lee, donde los primeros sitios eran estáticos y escritos en HTML básico. Con el tiempo, surgieron nuevas tecnologías como CSS para el diseño y JavaScript para la interactividad, permitiendo páginas más dinámicas. La aparición de frameworks, gestores de contenido y la popularización de los dispositivos móviles impulsaron la evolución hacia aplicaciones web complejas, responsivas y seguras. Actualmente, el desarrollo web continúa transformándose con tendencias como el desarrollo full-stack, el uso de inteligencia artificial y la integración de tecnologías emergentes como WebAssembly y Progressive Web Apps.
@@ -98,3 +98,50 @@ Te ayuda a rastrear los cambios, volver a versiones anteriores si es necesario, 
 # GitHub: La Plataforma de Colaboración 
 GitHub es un sitio web y un servicio en la nube que aloja los repositorios creados con Git. 
 Permite que varios desarrolladores trabajen en un mismo proyecto al mismo tiempo, viendo las ediciones de los demás en tiempo real. 
+
+Flujo de trabajo con ramas (branching, merge, pull requests)
+-
+Un flujo de trabajo con ramas en sistemas como Git es un proceso para organizar el desarrollo colaborativo, donde se crean ramas separadas para nuevas características o correcciones, se trabaja en ellas de forma aislada y luego se usan Pull Requests para solicitar la fusión de esos cambios al proyecto principal (rama main) tras una revisión de código. 
+
+# Branching (Ramificación):
+
+La creación de una línea de desarrollo separada de la rama principal para trabajar en características nuevas o experimentales sin interferir con el código estable. 
+
+# Merge (Fusión):
+El proceso de combinar los cambios de una rama en otra, generalmente de una rama de característica a la rama principal. 
+
+# Pull Request (Solicitud de Extracción):
+Una solicitud formal para incorporar los cambios de una rama a otra. Permite a otros miembros del equipo revisar el código, discutirlo y aprobar la fusión antes de que se realice. 
+
+Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web
+Diseño e implementación del frontend
+------
+
+# Wireframe (Estructura)
+Propósito:
+Visualizar la estructura de la interfaz, el flujo del usuario y la disposición de los elementos. 
+Características:
+Es una representación de baja fidelidad, a menudo en escala de grises, que utiliza formas básicas como cajas y líneas. 
+Enfoque:
+La funcionalidad, la navegación y la ubicación de los componentes, sin detalles estéticos. 
+Uso:
+Se crean en las primeras etapas del diseño para establecer la base y la arquitectura del producto. 
+
+# Mockup (Maqueta)
+Propósito:
+Mostrar cómo se verá la interfaz del producto final, con todos sus detalles visuales y estéticos. 
+Características:
+Es una representación de alta fidelidad que incluye colores, tipografía, imágenes y otros elementos gráficos. 
+Enfoque:
+La apariencia visual, la estética y la experiencia de usuario, simulando el diseño final. 
+Uso:
+Se utilizan en etapas intermedias o avanzadas para refinar el diseño visual y obtener feedback. 
+
+API
+-
+Es un conjunto de reglas y definiciones que permite que dos aplicaciones de software diferentes se comuniquen entre sí, actuando como un puente para el intercambio de datos y servicios. Permite a las aplicaciones enviar y recibir información de manera estandarizada, facilitando la creación de aplicaciones más complejas al no tener que desarrollar todas sus funcionalidades desde cero.
+
+Diseño e implementación del backend
+-
+# Servidor
+Consiste en crear y mantener la lógica del lado del servidor, bases de datos e infraestructura necesaria para que una aplicación web funcione, procese datos y responda a las solicitudes de los usuarios de manera segura y eficiente
