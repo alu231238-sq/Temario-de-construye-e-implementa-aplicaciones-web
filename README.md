@@ -34,7 +34,8 @@ Aplicaciones web progresivas (PWA):
 -
 Se pueden descargar en dispositivos y funcionar incluso sin conexión, mejorando la accesibilidad y el rendimiento como Netflix o Spotify. 
 
-2.Arquitectura de aplicaciones web
+.
+Arquitectura de aplicaciones web
 Cliente-Servidor
 ----------------------------------------
 Es un modelo informático donde un programa cliente solicita servicios o recursos a un programa servidor, que los provee. El cliente interactúa con el usuario, mientras que el servidor gestiona y centraliza los recursos y el procesamiento de datos.
@@ -67,7 +68,8 @@ Se utilizan lenguajes de descripción de API, como la Especificación OpenAPI, p
 Facilita el desarrollo paralelo de diferentes API y la reutilización de componentes, acelerando el proceso. 
 Al anticipar las necesidades de los desarrolladores desde el inicio, se crea una experiencia de uso más intuitiva y se mejora la calidad del producto final. 
 
-3.Lenguajes y tecnologías fundamentales
+.
+Lenguajes y tecnologías fundamentales
 -
 # HTML (HyperText Markup Language) 
 Es el lenguaje de marcado estándar utilizado para crear la estructura y el contenido de las páginas web.
@@ -113,6 +115,7 @@ El proceso de combinar los cambios de una rama en otra, generalmente de una rama
 # Pull Request (Solicitud de Extracción):
 Una solicitud formal para incorporar los cambios de una rama a otra. Permite a otros miembros del equipo revisar el código, discutirlo y aprobar la fusión antes de que se realice. 
 
+.
 Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web
 Diseño e implementación del frontend
 ------
